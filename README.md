@@ -24,7 +24,7 @@
 ###  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,dart,flutter,react,unity,pytorch,mysql,firebase,aws,docker,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,dart,flutter,react,unity,pytorch,mysql,firebase,aws,docker,vercel,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -76,10 +76,10 @@
 
 ###  GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShajiaSiddiqa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShajiaSiddiqa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShajiaSiddiqa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShajiaSiddiqa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShajiaSiddiqa&theme=tokyonight&hide_border=true" />
