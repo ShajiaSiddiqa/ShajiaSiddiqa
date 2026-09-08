@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shajia Siddiqa 👋</h1>
+<h1 align="center">Hi, I'm Shajia Siddiqa </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Game+Developer;BS+Artificial+Intelligence+%40+ITU+Lahore;I+build+chess+engines%2C+CNNs+%26+mobile+apps;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
